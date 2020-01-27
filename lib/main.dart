@@ -74,7 +74,7 @@ class MyApp extends StatelessWidget {
                     color: Colors.amber.shade600,
                   ),
                   title: Text(
-                    'cheftech@ambientx.com',
+                    'cheftech@ambientx.dev',
                     style: TextStyle(
                       color: Colors.grey.shade600,
                       fontFamily: 'Source Sans Pro',

@@ -33574,7 +33574,7 @@ u=u[3]
 return Math.sqrt(t*t+s*s+r*r+u*u)}}
 F.zJ.prototype={
 M:function(a){var u=null,t="Source Sans Pro"
-return new S.nn(new M.or(Q.Oo(!0,new T.uE(C.a4,C.jG,C.jH,C.iN,u,C.kM,u,H.b([new T.fu(u,10,u,u),new K.ur(new L.tA("images/profilepic2020.jpg"),100,u),L.Eo("Christophe R. Patraldo",A.eu(u,u,C.hp.i(0,500),u,u,u,u,u,"Pacifico",u,u,30,u,C.q,u,u,!0,u,u,u,u,u,u)),L.Eo("Ambient Computing",A.eu(u,u,C.t.i(0,100),u,u,u,u,u,t,u,u,25,u,C.aQ,u,u,!0,u,u,u,u,u,u)),M.iE(u,C.n4,C.A.i(0,600),u,u,u,20,u,u,u,150),V.N4(Q.NQ(L.NC(C.np,C.hp.i(0,600)),L.Eo("(+1) 323 691-2121",A.eu(u,u,C.A.i(0,600),u,u,u,u,u,t,u,u,20,u,C.aQ,u,u,!0,u,u,u,u,u,u))),new V.ap(25,10,25,10)),V.N4(Q.NQ(L.NC(C.no,C.hp.i(0,600)),L.Eo("cheftech@ambientx.com",A.eu(u,u,C.A.i(0,600),u,u,u,u,u,t,u,u,20,u,C.aQ,u,u,!0,u,u,u,u,u,u))),new V.ap(25,10,25,10))],[N.bL]),u),C.aY,!0),C.J,u),u)}};(function aliases(){var u=H.mD.prototype
+return new S.nn(new M.or(Q.Oo(!0,new T.uE(C.a4,C.jG,C.jH,C.iN,u,C.kM,u,H.b([new T.fu(u,10,u,u),new K.ur(new L.tA("images/profilepic2020.jpg"),100,u),L.Eo("Christophe R. Patraldo",A.eu(u,u,C.hp.i(0,500),u,u,u,u,u,"Pacifico",u,u,30,u,C.q,u,u,!0,u,u,u,u,u,u)),L.Eo("Ambient Computing",A.eu(u,u,C.t.i(0,100),u,u,u,u,u,t,u,u,25,u,C.aQ,u,u,!0,u,u,u,u,u,u)),M.iE(u,C.n4,C.A.i(0,600),u,u,u,20,u,u,u,150),V.N4(Q.NQ(L.NC(C.np,C.hp.i(0,600)),L.Eo("(+1) 323 691-2121",A.eu(u,u,C.A.i(0,600),u,u,u,u,u,t,u,u,20,u,C.aQ,u,u,!0,u,u,u,u,u,u))),new V.ap(25,10,25,10)),V.N4(Q.NQ(L.NC(C.no,C.hp.i(0,600)),L.Eo("cheftech@ambientx.dev",A.eu(u,u,C.A.i(0,600),u,u,u,u,u,t,u,u,20,u,C.aQ,u,u,!0,u,u,u,u,u,u))),new V.ap(25,10,25,10))],[N.bL]),u),C.aY,!0),C.J,u),u)}};(function aliases(){var u=H.mD.prototype
 u.wx=u.v
 u=H.oq.prototype
 u.xk=u.ao
